@@ -1,0 +1,20 @@
+mutation CreateItem {
+  createItem(
+    id: "{00000000-0000-0000-0000-000000000000}"
+    name: "Trial"
+    # id:"{72533645-C765-4FB4-B70D-575718F00BBE}"
+    template: "{66FC99A4-477A-4A1F-BE22-32DF32EF9F6B}"
+    parent: "/sitecore/content/POC/guarder/Data/ContactUs"
+    language: "en"
+    fields: [
+      { name: "Name", value: "'Vikas'" }
+      { name: "Email", value: "'vikas@gmail.com'" }
+      { name: "PhoneNumber", value: "'1234567890'" }
+      { name: "Message", value: "'Trial'" }
+      # { name: "text", value: "'This is an example item created with GraphQL'" }
+    ]
+  ) {
+    path
+    name
+  }
+}

@@ -1,0 +1,8 @@
+query About($datasource: String!) {
+  fields: item(path: $datasource, language: "en") {
+    fields {
+      name
+      data: jsonValue
+    }
+  }
+}

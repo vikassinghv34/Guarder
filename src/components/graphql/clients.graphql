@@ -1,0 +1,11 @@
+query Clients($datasource: String!) {
+  fields: item(path: $datasource, language: "en") {
+    ClientsList: field(name: "ClientsList") {
+      data: jsonValue
+    }
+    fields {
+      name
+      value
+    }
+  }
+}
