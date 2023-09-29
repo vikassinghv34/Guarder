@@ -14,9 +14,11 @@ import { AboutDocument } from './graphql/about.graphql';
 import config from 'temp/config';
 
 const About = ({ fields }: AboutProps) => {
-  // console.log(fields);
+  console.log(fields);
+  console.log(fields?.fields?.fields?.fields[1]?.data);
 
-  const AboutImg = 'https://guarderssc.dev.local/' + fields.fields.fields.fields[0].data.value?.src;
+  const AboutImg =
+    'https://guarderssc.dev.local/' + fields.fields.fields.AboutImage.data.value?.src;
 
   return (
     <div className="bg-white z-0">
@@ -27,7 +29,7 @@ const About = ({ fields }: AboutProps) => {
               className="w-screen"
               // field={fields.AboutImage}
               src={AboutImg}
-              alt={fields.fields.fields.fields[0].data?.value?.alt as string}
+              alt={fields.fields.fields.AboutImage.data?.value?.alt as string}
               width={500}
               height={400}
             ></Image>
@@ -42,7 +44,7 @@ const About = ({ fields }: AboutProps) => {
             </p>
             <Link
               className="bg-yellow-300 inline-block text-white py-2.5 px-9 uppercase transition duration-500 hover:bg-white hover:text-yellow-300   border-2 border-yellow-300 "
-              field={fields.fields.fields.fields[2].data}
+              field={fields.fields.fields.AboutReadMoreCTA.data}
             >
               <Text field={fields.fields.fields.fields[4].data}></Text>
             </Link>

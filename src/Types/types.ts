@@ -4,7 +4,7 @@ import {
   ImageFieldValue,
   LinkFieldValue,
   RichTextField,
-  TextField,
+  // TextField,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 
@@ -79,13 +79,31 @@ export type BannerCarousel = {
   };
 };
 
+// export type AboutProps = ComponentProps & {
+//   fields: {
+//     fields: {
+//       fields: {
+//         fields: {
+//           data: Field<string> | ImageField | Field<LinkFieldValue> | Field<TextField>;
+//         }[];
+//       };
+//     };
+//   };
+// };
+
 export type AboutProps = ComponentProps & {
   fields: {
     fields: {
       fields: {
         fields: {
-          data: Field<string> | ImageField | Field<LinkFieldValue> | Field<TextField>;
+          data: Field<string>;
         }[];
+        AboutImage: {
+          data: ImageField;
+        };
+        AboutReadMoreCTA: {
+          data: Field<LinkFieldValue>;
+        };
       };
     };
   };

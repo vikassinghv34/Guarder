@@ -1,5 +1,13 @@
 query About($datasource: String!) {
   fields: item(path: $datasource, language: "en") {
+    AboutImage: field(name: "AboutImage") {
+      name
+      data: jsonValue
+    }
+    AboutReadMoreCTA: field(name: "AboutReadMoreCTA") {
+      name
+      data: jsonValue
+    }
     fields {
       name
       data: jsonValue
