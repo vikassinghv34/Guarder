@@ -10,7 +10,7 @@ import Image from 'next/image';
 import React from 'react';
 import { AboutProps } from 'src/Types/types';
 
-import { AboutDocument } from './graphql/about.graphql.d';
+import { AboutDocument } from './graphql/about.graphql';
 import config from 'temp/config';
 
 const About = ({ fields }: AboutProps) => {
