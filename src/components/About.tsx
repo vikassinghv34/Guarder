@@ -14,8 +14,8 @@ import { AboutDocument } from './graphql/about.graphql';
 import config from 'temp/config';
 
 const About = ({ fields }: AboutProps) => {
-  console.log(fields);
-  console.log(fields?.fields?.fields?.fields[1]?.data);
+  // console.log(fields);
+  // console.log(fields?.fields?.fields?.fields[1]?.data);
 
   const AboutImg =
     'https://guarderssc.dev.local/' + fields.fields.fields.AboutImage.data.value?.src;
@@ -63,7 +63,7 @@ export const getStaticProps: GetStaticComponentProps = async (rendering, layoutD
       apiKey: config.sitecoreApiKey,
     });
 
-    const fields = await graphQLClient.request(AboutDocument as any, {
+    const fields = await graphQLClient.request(AboutDocument as never, {
       datasource: rendering?.dataSource,
       language: layoutData?.sitecore?.context?.language,
     });

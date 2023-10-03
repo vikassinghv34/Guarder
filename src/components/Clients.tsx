@@ -73,7 +73,7 @@ export const getStaticProps: GetStaticComponentProps = async (rendering, layoutD
       apiKey: config.sitecoreApiKey,
     });
 
-    const results = await graphQLClient.request(ClientsDocument as any, {
+    const results = await graphQLClient.request(ClientsDocument as never, {
       datasource: rendering?.dataSource,
       language: layoutData?.sitecore?.context?.language,
     });
