@@ -9,7 +9,7 @@ const publicUrl = getPublicUrl();
  */
 const nextConfig = {
   images: {
-    domains: ['guarderssc.dev.local'],
+    domains: ['guarderssc.dev.local', 'calm-mallard-fairly.ngrok-free.app'],
     // formats: ['image/svg+xml', 'image/webp'],
     dangerouslyAllowSVG: true,
   },
