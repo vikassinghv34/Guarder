@@ -13,7 +13,7 @@ const ContactUs = ({ fields }: ContactUsProps) => {
   // const [isResponse, setIsResponse] = useState(false);
 
   const router = useRouter();
-  const API_ENDPOINT = 'https://guarderssc.dev.local/sitecore/api/graph/items/master';
+  const API_ENDPOINT = 'https://calm-mallard-fairly.ngrok-free.app/sitecore/api/graph/items/master';
 
   const handleSubmit = async (event: ChangeEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -69,7 +69,7 @@ const ContactUs = ({ fields }: ContactUsProps) => {
   };
 
   const BgImage =
-    'https://guarderssc.dev.local/' +
+    'https://calm-mallard-fairly.ngrok-free.app/' +
     fields.ContactUsBackgroundImage.value?.src?.replace('/sitecore/shell/', '');
   return (
     // <div className="relative bg-cover bg-no-repeat" style={{ backgroundImage: `url(${BgImage})` }}>

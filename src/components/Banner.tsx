@@ -11,7 +11,8 @@ import 'swiper/modules';
 
 const Banner = ({ fields }: BannerProps) => {
   //   console.log(fields);
-  const bgImage = 'https://guarderssc.dev.local' + fields.BannerBackgroundImage.value.src;
+  const bgImage =
+    'https://calm-mallard-fairly.ngrok-free.app' + fields.BannerBackgroundImage.value.src;
   return (
     <div
       className="relative overflow-hidden bg-cover bg-no-repeat text-center h-screen "
