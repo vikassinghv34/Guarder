@@ -8,6 +8,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
 
 import 'swiper/modules';
+import Image from 'next/image';
 
 const Banner = ({ fields }: BannerProps) => {
   //   console.log(fields);
@@ -16,8 +17,14 @@ const Banner = ({ fields }: BannerProps) => {
   return (
     <div
       className="relative overflow-hidden bg-cover bg-no-repeat text-center h-screen "
-      style={{ backgroundImage: `url(${bgImage})` }}
+      // style={{ backgroundImage: `url(${bgImage})` }}
     >
+      <Image
+        src={bgImage}
+        alt={fields.BannerBackgroundImage.value.alt as string}
+        height={1000}
+        width={2000}
+      ></Image>
       <div className="absolute bg-fixed bg-black/[0.5] overflow-hidden bottom-0 left-0 right-0 top-0 h-full w-full">
         <div className="flex h-full w-full items-center justify-center md:justify-start px-4  ">
           <div className="container mx-auto">
