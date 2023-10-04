@@ -16,11 +16,11 @@ const Banner = ({ fields }: BannerProps) => {
     'https://calm-mallard-fairly.ngrok-free.app' + fields.BannerBackgroundImage.value.src;
   return (
     <div
-      className="relative  "
+      className="relative text-center h-full w-screen"
       // style={{ backgroundImage: `url(${bgImage})` }}
     >
       <Image
-        className="overflow-hidden bg-cover bg-no-repeat text-center h-screen"
+        className="overflow-hidden bg-cover bg-no-repeat min-w-full  h-screen"
         src={bgImage}
         alt={fields.BannerBackgroundImage.value.alt as string}
         height={1000}
