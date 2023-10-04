@@ -20,7 +20,7 @@ const Banner = ({ fields }: BannerProps) => {
       // style={{ backgroundImage: `url(${bgImage})` }}
     >
       <Image
-        className=" bg-cover bg-no-repeat min-w-fit  h-screen"
+        className=" bg-cover bg-no-repeat min-w-fit min-h-screen"
         src={bgImage}
         alt={fields.BannerBackgroundImage.value.alt as string}
         height={1000}
@@ -59,13 +59,13 @@ const Banner = ({ fields }: BannerProps) => {
                       </div>
                       <div className="flex justify-center flex-col sm:flex-row text-center md:justify-start items-center gap-3">
                         <Link
-                          className="bg-white text-black w-44 py-3 border-2 hover:bg-transparent hover:text-white transition duration-500"
+                          className="bg-white text-black w-44 py-3 border-2 border-white hover:bg-transparent hover:text-white transition duration-500"
                           field={carousel.fields.BannerCarouselReadMoreCTA}
                         >
                           <Text field={carousel.fields.BannerCarouselReadMoreCTAText}></Text>
                         </Link>
                         <Link
-                          className="bg-yellow-300 text-white w-44 py-3 hover:bg-transparent transition duration-500 border-2 hover:text-yellow-300 border-yellow-300"
+                          className="bg-yellow-400 text-white w-44 py-3 hover:bg-transparent transition duration-500 border-2 hover:text-yellow-400 border-yellow-400"
                           field={carousel.fields.BannerCarouselQuoteCTA}
                         >
                           <Text field={carousel.fields.BannerCarouselQuoteCTAText}></Text>

@@ -37,13 +37,13 @@ const About = ({ fields }: AboutProps) => {
           <div className="py-11 w-full px-6 shadow-slate-700 shadow-sm md:-ml-14 xl:my-10 z-10 bg-white">
             <h2 className="font-bold text-[32px] uppercase">
               <Text field={fields?.fields?.fields?.fields[1]?.data} />
-              <span className="block w-10 h-1.5 bg-yellow-300 rounded-md mt-1 "></span>
+              <span className="block w-10 h-1.5 bg-yellow-400 rounded-md mt-1 "></span>
             </h2>
             <p className="py-4">
               <Text field={fields.fields.fields.fields[3].data}></Text>
             </p>
             <Link
-              className="bg-yellow-300 inline-block text-white py-2.5 px-9 uppercase transition duration-500 hover:bg-white hover:text-yellow-300   border-2 border-yellow-300 "
+              className="bg-yellow-400 inline-block text-white py-2.5 px-9 uppercase transition duration-500 hover:bg-white hover:text-yellow-400   border-2 border-yellow-400 "
               field={fields.fields.fields.AboutReadMoreCTA.data}
             >
               <Text field={fields.fields.fields.fields[4].data}></Text>

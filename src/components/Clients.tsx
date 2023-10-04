@@ -30,7 +30,7 @@ const Clients = ({ results }: ClientsProps) => {
       <div className="container mx-auto text-center">
         <div className="w-full text-black font-bold text-[32px] uppercase">
           <Text field={results.results.fields.fields[0]}></Text>
-          <span className="block w-10 h-1.5 bg-yellow-300 mx-auto my-1 rounded-md"></span>
+          <span className="block w-10 h-1.5 bg-yellow-400 mx-auto my-1 rounded-md"></span>
         </div>
         <Slider {...settings}>
           {results.results.fields.ClientsList.data.map((client: Client, index: number) => {

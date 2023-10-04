@@ -11,7 +11,7 @@ const Services = ({ fields }: ServicesProps) => {
       <div className="container mx-auto">
         <div className="w-full text-center text-white font-bold text-[32px] uppercase">
           <Text field={fields.data.fields.fields[0]}></Text>
-          <span className="bg-yellow-300 w-10 rounded-md mx-auto h-1.5 block my-1"></span>
+          <span className="bg-yellow-400 w-10 rounded-md mx-auto h-1.5 block my-1"></span>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 ">
           {fields.data.fields.ServicesList?.data.map((service: Service, index: number) => {
@@ -41,7 +41,7 @@ const Services = ({ fields }: ServicesProps) => {
                   </div>
                   <div className="mt-2.5 inline-block">
                     <Link
-                      className="bg-yellow-300 py-2 px-9 text-white uppercase inline-block border-2 border-yellow-300 hover:text-yellow-300 transition duration-500 hover:bg-transparent"
+                      className="bg-yellow-400 py-2 px-9 text-white uppercase inline-block border-2 border-yellow-400 hover:text-yellow-400 transition duration-500 hover:bg-transparent"
                       field={service.fields.ServiceCTA}
                     >
                       <Text field={service.fields.ServiceCTAText}></Text>

@@ -73,7 +73,7 @@ const Footer = ({ fields }: Footerprops) => {
             />
             <Link
               field={fields.FooterSubscribeCTA}
-              className="rounded-3xl inline-block text-center uppercase bg-yellow-300 text-white py-1.5 px-2 w-2/4 sm:w-1/4 md:w-2/4 border-2 border-yellow-300 transition duration-500 hover:bg-transparent hover:text-yellow-300"
+              className="rounded-3xl inline-block text-center uppercase bg-yellow-400 text-white py-1.5 px-2 w-2/4 sm:w-1/4 md:w-2/4 border-2 border-yellow-400 transition duration-500 hover:bg-transparent hover:text-yellow-400"
             >
               <Text field={fields.FooterSubscribeCTAText}></Text>
             </Link>

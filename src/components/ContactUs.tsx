@@ -91,7 +91,7 @@ const ContactUs = ({ fields }: ContactUsProps) => {
         </div>
         <div className="data">
           <div className="container mx-auto">
-            <div className="relative w-full text-center pb-2.5 mb-2 text-white font-bold text-[32px] uppercase before:w-10 before:bg-yellow-300 before:h-1.5 before:absolute before:bottom-0 before:left-1/2 before:-translate-x-1/2 before:content-[''] before:rounded-md">
+            <div className="relative w-full text-center pb-2.5 mb-2 text-white font-bold text-[32px] uppercase before:w-10 before:bg-yellow-400 before:h-1.5 before:absolute before:bottom-0 before:left-1/2 before:-translate-x-1/2 before:content-[''] before:rounded-md">
               <Text field={fields.ContactUsHeading}></Text>
             </div>
 
@@ -134,7 +134,7 @@ const ContactUs = ({ fields }: ContactUsProps) => {
                 <div className="w-full text-center">
                   <button
                     type="submit"
-                    className="mt-6 bg-yellow-300 py-2.5 px-14 text-white font-bold uppercase inline-block border-2 border-yellow-300 transition duration-500 hover:bg-transparent hover:text-yellow-300"
+                    className="mt-6 bg-yellow-400 py-2.5 px-14 text-white font-bold uppercase inline-block border-2 border-yellow-400 transition duration-500 hover:bg-transparent hover:text-yellow-400"
                   >
                     <Text field={fields.ContactUsCTAText}></Text>
                   </button>

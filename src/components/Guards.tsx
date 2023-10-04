@@ -9,7 +9,7 @@ const Guards = ({ fields }: GuardsProps) => {
   return (
     <div className="bg-white py-24">
       <div className="container mx-auto">
-        <div className=" relative w-full font-bold text-[32px] uppercase text-center pb-2.5 mb-2 before:content-[''] before:w-10 before:h-1.5 before:bg-yellow-300 before:absolute before:rounded-md before:-translate-x-1/2 before:bottom-0 before:left-1/2">
+        <div className=" relative w-full font-bold text-[32px] uppercase text-center pb-2.5 mb-2 before:content-[''] before:w-10 before:h-1.5 before:bg-yellow-400 before:absolute before:rounded-md before:-translate-x-1/2 before:bottom-0 before:left-1/2">
           <Text field={fields.GuardsHeading}></Text>
         </div>
         <div className="pb-4 text-center">
@@ -46,7 +46,7 @@ const Guards = ({ fields }: GuardsProps) => {
         </div>
         <div className="mt-11 text-center">
           <Link
-            className="bg-yellow-300 text-white capitalize py-2.5 px-11 inline-block border-2 border-yellow-300 transition duration-500 hover:bg-transparent hover:text-yellow-300"
+            className="bg-yellow-400 text-white capitalize py-2.5 px-11 inline-block border-2 border-yellow-400 transition duration-500 hover:bg-transparent hover:text-yellow-400"
             field={fields.GuardsCTA}
           >
             <Text field={fields.GuardsCTAText}></Text>
