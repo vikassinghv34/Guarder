@@ -10,7 +10,9 @@ import axios from 'axios';
 const ContactUs = ({ fields }: ContactUsProps) => {
   // console.log(fields);
 
+  // const default_form
   // const [isResponse, setIsResponse] = useState(false);
+  // const [formData, setFormData] = useState(default_form);
 
   const router = useRouter();
   const API_ENDPOINT = 'https://calm-mallard-fairly.ngrok-free.app/sitecore/api/graph/items/master';
@@ -22,6 +24,11 @@ const ContactUs = ({ fields }: ContactUsProps) => {
     const email = event.target.Email.value;
     const number = event.target.Number.value;
     const message = event.target.Message.value.trim();
+
+    const formData = {
+      name: name,
+      email: email,
+    };
 
     const response = await axios.post(
       API_ENDPOINT,
@@ -56,10 +63,29 @@ const ContactUs = ({ fields }: ContactUsProps) => {
         },
       }
     );
-    console.log('GQL Response: ', response.data);
+
+    const response2 = await axios.post('/api/sendEmail', JSON.stringify(formData), {
+      headers: {
+        Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/json',
+      },
+    });
+
+    console.log('GQL Respons2: ', response2.data);
+
+    if (response2.data.errors) {
+      alert(response2.data.errors[0].extentions.code);
+      // setIsResponse(true);
+    } else {
+      alert(`Thank You, ${name}, for contacting us`);
+      // setIsResponse(true);
+      router.push(`${fields.ContactUsCTA.value.href}`);
+    }
+
+    console.log('GQL Response1: ', response.data);
 
     if (response.data.errors) {
-      alert(response.data.errors[0].extentions.code);
+      alert(response.data.errors[0].extentions?.code.value);
       // setIsResponse(true);
     } else {
       alert(`Thank You, ${name}`);
