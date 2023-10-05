@@ -64,31 +64,30 @@ const ContactUs = ({ fields }: ContactUsProps) => {
       }
     );
 
-    const response2 = await axios.post('/api/sendEmail', JSON.stringify(formData), {
-      headers: {
-        Accept: 'application/json, text/plain, */*',
-        'Content-Type': 'application/json',
-      },
-    });
-
-    console.log('GQL Respons2: ', response2.data);
-
-    if (response2.data.errors) {
-      alert(response2.data.errors[0].extentions.code);
-      // setIsResponse(true);
-    } else {
-      alert(`Thank You, ${name}, for contacting us`);
-      // setIsResponse(true);
-      router.push(`${fields.ContactUsCTA.value.href}`);
-    }
-
     console.log('GQL Response1: ', response.data);
 
     if (response.data.errors) {
-      alert(response.data.errors[0].extentions?.code.value);
+      alert('Error :- DUPLICATE_ITEM_NAME');
+
       // setIsResponse(true);
     } else {
       alert(`Thank You, ${name}`);
+      const response2 = await axios.post('/api/sendEmail', JSON.stringify(formData), {
+        headers: {
+          Accept: 'application/json, text/plain, */*',
+          'Content-Type': 'application/json',
+        },
+      });
+
+      console.log('GQL Respons2: ', response2.data);
+      if (response2.data.errors) {
+        alert(response2.data.errors[0].extentions.code);
+        // setIsResponse(true);
+      } else {
+        alert(`${name}, we will contacting you soon.`);
+        // setIsResponse(true);
+        // router.push(`${fields.ContactUsCTA.value.href}`);
+      }
       // setIsResponse(true);
       router.push(`${fields.ContactUsCTA.value.href}`);
     }
