@@ -33,7 +33,7 @@ const Header = ({ fields, sitecoreContext }: HeaderProps) => {
           <div className={`py-3 h-14 w-32 text-white  hover:cursor-pointer font-bold text-2xl`}>
             {/* <Image className="h-full" field={fields.HeaderLogo} height={40} width={150}></Image> */}
             <Link field={fields.data.fields.HeaderLogoLink.data}>
-              <Text className="" field={fields.data.fields.fields[1]}></Text>
+              <Text className="" field={fields.data.fields.fields[0]}></Text>
             </Link>
           </div>
         </div>
