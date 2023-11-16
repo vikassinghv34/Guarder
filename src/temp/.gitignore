@@ -2,4 +2,3 @@
 !.gitignore
 !GraphQLIntrospectionResult.json
 
-./models
