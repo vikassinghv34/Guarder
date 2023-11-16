@@ -1,0 +1,17 @@
+{
+    "namespace": "Training",
+    "items": {
+        "includes": [
+            {
+                "name": "feature-templates",
+                "path": "/sitecore/templates/Feature/JSS Experience Accelerator/Page Content"
+            }
+        ]
+    },
+    "leprechaun": {
+        "configuration": {
+            "@extends": "Training.Base",
+            "@name": "Feature.feature-templates"
+        }
+    }
+}

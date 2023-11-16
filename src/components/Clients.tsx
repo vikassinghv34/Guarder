@@ -36,7 +36,7 @@ const Clients = ({ results }: ClientsProps) => {
           {results.results.fields.ClientsList.data.map((client: Client, index: number) => {
             // console.log(client);
             const clientImage =
-              'https://calm-mallard-fairly.ngrok-free.app/' + client.fields.ClientImage.value?.src;
+              'https://frank-corgi-nice.ngrok-free.app/' + client.fields.ClientImage.value?.src;
             return (
               <div key={index} className="w-full mt-11 px-14 md:px-28">
                 <div className="">

@@ -1,0 +1,928 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Client.yml
+ID: "ffe348cd-41d8-4810-a5a2-fdbd3169b9e4"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Client
+Signature: 89ifrf055Nlhvi9yemgl412W1PtFb8MwqHLykqvMlFA=
+Modified: 638334011104207382
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel.yml
+ID: "fedbfbe3-1857-40d4-baa4-568c353db871"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel
+Signature: HtVIdIPgxX2EFfpKQGUFHp4D0OTqZnhSoPcYiQxJuRY=
+Modified: 638334011104187388
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Banner.yml
+ID: "8cacd8d3-4eab-4a99-9081-4e4b6bc14b9d"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Banner
+Signature: XpFvvOX3AvmflqfTiP79o58UcMA4G8CianqgQRQ/Ntk=
+Modified: 638334011104157271
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\About.yml
+ID: "5946d908-d2cc-49b5-abc3-e12ca78318a2"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/About
+Signature: +YYfew8OmfQi79FFx3p/qGefcfZE5As0pQKN/wd1eys=
+Modified: 638334011104132159
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo.yml
+ID: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo
+Signature: 4jeMtH2jK4t6OA8nuLypTpOS1nkMAJpVqEPiCwufZ20=
+Modified: 638334011104363578
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Clients.yml
+ID: "aee3343b-e6fe-49dd-a277-ecd0f8af52d7"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Clients
+Signature: bSRHgXSMNrI5FUgwIUqtL3HpwXEPsmCPBgLOAKfRy4U=
+Modified: 638334011104237387
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guard.yml
+ID: "47277187-4230-41b2-be70-e703e0c4b8b1"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guard
+Signature: NMwvUvxuqZLZFdeF5bqnlpZNx/tQL0DyOavN3+JOTyE=
+Modified: 638334011104263137
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo Folder.yml
+ID: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo Folder
+Signature: 0pTy33v20w8JLYgaGPnFuwWbS/I1NBdMJ9KdxKGMFZs=
+Modified: 638334011104363578
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactsData.yml
+ID: "66fc99a4-477a-4a1f-be22-32df32ef9f6b"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactsData
+Signature: SbagjdTrIppF7UIqfOcHw1ovLKBmVlxZU553i8Tu4j8=
+Modified: 638334011104263137
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters.yml
+ID: "1d8f4d81-2f6a-48d8-9b65-ee8110a97a72"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters
+Signature: 3JqZ6cC2AZGy/qK3ZpJGjKzpT050jkrI7aQDBCElLas=
+Modified: 638334011104363578
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guards.yml
+ID: "b804324b-1a9c-4db4-a43f-473432a5f277"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guards
+Signature: y7XYt60Df50+Y2Mto5/YBHxcVmO4k9Dn0R0oPhsIP50=
+Modified: 638334011104263137
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters\Title.yml
+ID: "a82e8931-0575-4175-917d-e904ef7e6dbe"
+Parent: "1d8f4d81-2f6a-48d8-9b65-ee8110a97a72"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters/Title
+Signature: pidpdRUMgHVaI+jlqfPsUeC8Vfhq9uGgLE+OQHVV5tA=
+Modified: 638334011104973368
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Service.yml
+ID: "0707eacd-fd1a-43d9-a428-2e0710439932"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Service
+Signature: L1cESEKXUMBEg0sPe6LF3mmQ6K4mwQn2zEFrT5ebIYY=
+Modified: 638334011104432546
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Service\Service Details.yml
+ID: "fc1568e9-b20b-4180-bb74-66a306a644b4"
+Parent: "0707eacd-fd1a-43d9-a428-2e0710439932"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Service/Service Details
+Signature: 3DYLg1swQWVuseh/GZKfAZ47bJWAHWwVmc6qpoqvaaA=
+Modified: 638334011105017067
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel\Carousel Details\BannerCarouselReadMoreCTA.yml
+ID: "9c8c63f1-0768-4105-af4f-cac9f6b6f572"
+Parent: "a0223ad2-c114-4997-ae45-4791e175562f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel/Carousel Details/BannerCarouselReadMoreCTA
+Signature: O0wIZdmZlZ3070rZ1EJacQ6jzX9/220s1nsnj/y2Ozk=
+Modified: 638334011105276715
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Banner\Banner Details\BannerBackgroundImage.yml
+ID: "2210ecd7-daa4-445b-b03f-d437ef669b6f"
+Parent: "dc39dd14-06fb-492e-bd12-7c62c4a79ab5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Banner/Banner Details/BannerBackgroundImage
+Signature: y8p8sxyefxuA2qxoRDRUvqVXFLRN0GuEXeS51afOBYQ=
+Modified: 638334011105250136
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Services\Services Details.yml
+ID: "ac94e296-cc0b-4fa4-8eba-fd4662b4da98"
+Parent: "9c5c634f-e77c-459c-8c58-5bc319bd8f36"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Services/Services Details
+Signature: OJ00cWjiw0NN6S7STNglTf3VbjBRxD9uVAt7nSxB+sU=
+Modified: 638334011105045075
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Service\__Standard Values.yml
+ID: "41462714-cacd-4d6d-b0a0-43f060a43c60"
+Parent: "0707eacd-fd1a-43d9-a428-2e0710439932"
+Template: "0707eacd-fd1a-43d9-a428-2e0710439932"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Service/__Standard Values
+Signature: nms44AcbxDHIfxjsojXx3BD8kBPbNUiD0xdB0cNV9s4=
+Modified: 638334011107040342
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Client\ClientDetails\ClientDescription.yml
+ID: "98aae187-a2c7-42e8-bdfb-1995c195ccd0"
+Parent: "26cb3b32-f866-4cd1-9ad2-629871379de6"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Client/ClientDetails/ClientDescription
+Signature: 9UrCiFcNnBswpGE1UhMPujp2t36zsR9j7Ks1I6S2zhA=
+Modified: 638334011105550365
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Banner\Banner Details\BannerCarousels.yml
+ID: "ec38ec93-239c-4aa5-b168-882446e33bc6"
+Parent: "dc39dd14-06fb-492e-bd12-7c62c4a79ab5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Banner/Banner Details/BannerCarousels
+Signature: ABT9KWBVY2iGgfYJHkAngH9DGwqLJvxzI3OTlSoLSLk=
+Modified: 638334011105276715
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Services\__Standard Values.yml
+ID: "dd270897-78a2-4975-a178-45f4ee42d1c6"
+Parent: "9c5c634f-e77c-459c-8c58-5bc319bd8f36"
+Template: "9c5c634f-e77c-459c-8c58-5bc319bd8f36"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Services/__Standard Values
+Signature: 45lNWX5nHOozp+D+Yqo5su5y35kauFUMAJMQtz2kvAo=
+Modified: 638334011107060271
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel\Carousel Details\BannerCarouselDescription.yml
+ID: "65ad9d67-2e22-46dc-b2a2-517c759d6f24"
+Parent: "a0223ad2-c114-4997-ae45-4791e175562f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel/Carousel Details/BannerCarouselDescription
+Signature: MQel9nesTAVNdqWLhfMBJAWflOCyRTdHuG3K/3XFnyM=
+Modified: 638334011105276715
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Client\ClientDetails\ClientImage.yml
+ID: "1d0011cc-d776-4c24-91ab-6db9b9c1f56b"
+Parent: "26cb3b32-f866-4cd1-9ad2-629871379de6"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Client/ClientDetails/ClientImage
+Signature: 7B8tqchmGiCiv5OdeYwNwwyf1sYqJuwlTd5RtPjrGU4=
+Modified: 638334011105488064
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactsData\Contacts Details\PhoneNumber.yml
+ID: "1bd61a9d-0868-4e2a-baa1-5328331e9cef"
+Parent: "ecb04ae3-864d-4c63-9a4c-ccbfb240bc01"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactsData/Contacts Details/PhoneNumber
+Signature: 5hH1l801cK5Y2s0uSAvosjKX5vdxp1iu4afohnqLkEw=
+Modified: 638334011105715862
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Text\Text.yml
+ID: "3a632f18-9fe1-4edf-a4a1-f2b33df4bdd4"
+Parent: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Text/Text
+Signature: VUsFoOPP8fu+OLo9KbKevPEZDKaxTv/vQJL5FedGJWw=
+Modified: 638334012634785124
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel\Carousel Details\BannerCarouselQuoteCTA.yml
+ID: "9fca51b8-6561-4c95-b491-1e25afac0b7d"
+Parent: "a0223ad2-c114-4997-ae45-4791e175562f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel/Carousel Details/BannerCarouselQuoteCTA
+Signature: pBBTlHECmIqrek2SSagE/BcJlhYcNZtEG6fxqQ6uVVQ=
+Modified: 638334011105402795
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Client\ClientDetails\ClientName.yml
+ID: "617b36f5-206e-4861-85f8-05e59eabaaa2"
+Parent: "26cb3b32-f866-4cd1-9ad2-629871379de6"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Client/ClientDetails/ClientName
+Signature: CKwWH85DE20bbKx7WOeFE4g4btiiT1+G7OeV59z2/hk=
+Modified: 638334011105514341
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Text Folder\__Standard Values.yml
+ID: "d240c5ff-4a48-42f5-b0e5-f8ea931d58e1"
+Parent: "b762d567-87f5-493c-bb48-0c455d834457"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Text Folder/__Standard Values
+Signature: tphCvNIlfVTxeetOZLTCrZuspHcX9Y5WqCl6MvKMU0U=
+Modified: 638334011107106993
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel\Carousel Details\BannerCarouselQuoteCTAText.yml
+ID: "6ea7e25f-18f4-4d1a-a4d5-be4a514d2da5"
+Parent: "a0223ad2-c114-4997-ae45-4791e175562f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel/Carousel Details/BannerCarouselQuoteCTAText
+Signature: /23oyiFugqUkcb62phLJIXPUMnNycW31c6cuc4TS4ws=
+Modified: 638334011105452861
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Clients\Clients\ClientsHeading.yml
+ID: "781fab61-554e-4a9a-833e-03f9ba98280e"
+Parent: "1d9d0b14-f784-43a2-b4ec-b6437e49f79e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Clients/Clients/ClientsHeading
+Signature: Z3UJENS4gYafNfPIiP1x2JC9T/GSFTuLQJI1VOkq1S4=
+Modified: 638334011105610722
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\About\About Details\AboutDescription.yml
+ID: "8a91480a-c088-4642-a0de-07ca64fcac77"
+Parent: "19b37dd0-a0be-4e95-bdaf-67e83e397821"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/About/About Details/AboutDescription
+Signature: P/7WnSR2HP8TfPIxY6dBc3TtXntPhmv0XcOCfAIL3V8=
+Modified: 638334011105165061
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel\Carousel Details\BannerCarouselReadMoreCTAText.yml
+ID: "9accfa6a-bc75-41bf-88a9-fbff337dc05e"
+Parent: "a0223ad2-c114-4997-ae45-4791e175562f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel/Carousel Details/BannerCarouselReadMoreCTAText
+Signature: sSFh4K7lHvBOR1dMrIWZFtMvVoKs0iUcz8diqv5MRP4=
+Modified: 638334011105432978
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Clients\Clients\ClientsList.yml
+ID: "460d6909-d8a9-4adb-868d-f40e1059482a"
+Parent: "1d9d0b14-f784-43a2-b4ec-b6437e49f79e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Clients/Clients/ClientsList
+Signature: ygW/hNPLNPk8qRKETZqm44HFIap918PPAVnjmfyD5F4=
+Modified: 638334011105640758
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\About\About Details\AboutImage.yml
+ID: "f9b0b1e0-dd49-4853-8507-0827c6de26d3"
+Parent: "19b37dd0-a0be-4e95-bdaf-67e83e397821"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/About/About Details/AboutImage
+Signature: kp/TzJ2Dp6NSEQzPobEhFxQR0LeuDAJZEwkwzOw6kxA=
+Modified: 638334011105125033
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel\Carousel Details\BannerCarouselTitle.yml
+ID: "936721e7-8684-4a43-bfb7-1cd114d3c28d"
+Parent: "a0223ad2-c114-4997-ae45-4791e175562f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel/Carousel Details/BannerCarouselTitle
+Signature: Zg517RDCJJziVN87FJgkZuAf2yYvb+BVmMEvOr+78jU=
+Modified: 638334011105276715
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactsData\Contacts Details\Email.yml
+ID: "d46b3432-2abb-42f4-bba3-b4b45df8129f"
+Parent: "ecb04ae3-864d-4c63-9a4c-ccbfb240bc01"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactsData/Contacts Details/Email
+Signature: QWtH0rZXi2seVL/7YLqM2DBKimLhwlt292xv+LwM8LA=
+Modified: 638334011105695822
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\About\About Details\AboutReadMoreCTA.yml
+ID: "288a4e26-cb7f-43fe-845c-33161de588a9"
+Parent: "19b37dd0-a0be-4e95-bdaf-67e83e397821"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/About/About Details/AboutReadMoreCTA
+Signature: azzsP0qlrNhg6I9yBqGDFwY9Dd+ClyNuzIrAOX9gaBE=
+Modified: 638334011105190162
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails\ContactUsCTAText.yml
+ID: "1df28624-9353-46e9-8aa3-e5cd1feccb99"
+Parent: "79cf57a1-9549-4b12-9855-219606b0f787"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails/ContactUsCTAText
+Signature: du743LCNhBIHtYzDCeJ+6C1AqrnqM4OaIP9GWyljbEs=
+Modified: 638334011105939495
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactsData\Contacts Details\Message.yml
+ID: "0dcf46fd-1638-463c-9ddd-7954b7c9442a"
+Parent: "ecb04ae3-864d-4c63-9a4c-ccbfb240bc01"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactsData/Contacts Details/Message
+Signature: qaZ11T2l8XJiGjIDmkeyNFiAOm4DlPZHwwb0sn+zwFM=
+Modified: 638334011105745870
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\About\About Details\AboutReadMoreCTAText.yml
+ID: "39f2e9a0-53d8-4a96-a026-e0790071b84c"
+Parent: "19b37dd0-a0be-4e95-bdaf-67e83e397821"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/About/About Details/AboutReadMoreCTAText
+Signature: rQ1VFzmrSsHyEg9tEgGplvyh4vMQWwMXz5v7LlzxdR4=
+Modified: 638334011105220338
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails\ContactUsEmailPlaceholder.yml
+ID: "a7afc2db-2869-4546-8542-10f469713c15"
+Parent: "79cf57a1-9549-4b12-9855-219606b0f787"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails/ContactUsEmailPlaceholder
+Signature: hXtiHSgHb3/LHLm0rZOFyMlt/dYWpxkN+mNVCFxh9MU=
+Modified: 638334011105834144
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactsData\Contacts Details\Name.yml
+ID: "f74136b9-940c-4a55-bf3f-e14866360844"
+Parent: "ecb04ae3-864d-4c63-9a4c-ccbfb240bc01"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactsData/Contacts Details/Name
+Signature: kOd9wFLmTi1Z08NcSt6un5n+y/DZBpbMg3PD1H5G6fo=
+Modified: 638334011105670732
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\About\About Details\AboutTitle.yml
+ID: "545e682e-c78f-41f4-8e1f-703daca3cee3"
+Parent: "19b37dd0-a0be-4e95-bdaf-67e83e397821"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/About/About Details/AboutTitle
+Signature: AZ33w90FV7BHhO4sXko5YUHNHtO9tKliHtiWCYbSzC8=
+Modified: 638334011105145046
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails\ContactUsBackgroundImage.yml
+ID: "622c9875-1d36-4ee9-aee6-e763086bc24d"
+Parent: "79cf57a1-9549-4b12-9855-219606b0f787"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails/ContactUsBackgroundImage
+Signature: EsDCXTB+pTcvYa+04Yp4xefzmkJkdUPPQHThLaJ3df8=
+Modified: 638334011105959413
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guards\Guards Details\GuardsHeading.yml
+ID: "cb190fa9-bd9e-422b-826a-19cee88341a0"
+Parent: "3f4fae91-d9d4-421c-a16d-20ef2357142d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guards/Guards Details/GuardsHeading
+Signature: up1LXfBofmNW7BoRZdtM4vsGGyl8chmvwBDhsx7QxpM=
+Modified: 638334011106102015
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails\ContactUsCTA.yml
+ID: "4036ba0d-86e7-4009-ac87-e267f631adba"
+Parent: "79cf57a1-9549-4b12-9855-219606b0f787"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails/ContactUsCTA
+Signature: EPSsuFCw50XnL4pJE06c4vLhCB/CeQg77HxOJcZuXFw=
+Modified: 638334011105919475
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guards\Guards Details\GuardsList.yml
+ID: "d0a169da-9a94-4a7d-b04e-a6985212b4c5"
+Parent: "3f4fae91-d9d4-421c-a16d-20ef2357142d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guards/Guards Details/GuardsList
+Signature: Wb60ow7KkXtwk7kyfJKc9NePQxv5vx6xXqG7jlhdyWA=
+Modified: 638334011106174913
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails\ContactUsHeading.yml
+ID: "e5c253c6-c0d2-4610-a40b-6eedca5f4185"
+Parent: "79cf57a1-9549-4b12-9855-219606b0f787"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails/ContactUsHeading
+Signature: SpbHBtvK+yXU228bFzjohpzdu7pI17Ee+JRoUlFpaU8=
+Modified: 638334011105784044
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails\ContactUsMessagePlaceholder.yml
+ID: "530493d4-7fe9-40c7-8c53-518e69f16ed8"
+Parent: "79cf57a1-9549-4b12-9855-219606b0f787"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails/ContactUsMessagePlaceholder
+Signature: xKs3ocVTKTBDb1cA9txVv1s5ioWIZ3qRNxPziZZaJ/g=
+Modified: 638334011105899363
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails\ContactUsNamePlaceholder.yml
+ID: "ac103b45-d94a-47eb-93fd-2bc00ee41dfc"
+Parent: "79cf57a1-9549-4b12-9855-219606b0f787"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails/ContactUsNamePlaceholder
+Signature: rdLz2fvsZidY6QkwJrRsm9Fop7u2vtaZ0sr7UHCiZIg=
+Modified: 638334011105804325
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails\ContactUsNumberPlaceholder.yml
+ID: "22b9c00d-18ad-4047-af59-b1f2f41f4e47"
+Parent: "79cf57a1-9549-4b12-9855-219606b0f787"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails/ContactUsNumberPlaceholder
+Signature: f84vB1mXF6/qwzYy0NLvR6bRNuUb1av1ZccXif9Qseo=
+Modified: 638334011105874093
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guard\Guard Details\GuardDesignation.yml
+ID: "58b22c1f-4f99-4fe2-b031-0961ccdc3266"
+Parent: "3c4dc456-caf4-4de9-a733-fa99eee38e7c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guard/Guard Details/GuardDesignation
+Signature: 1GhtGuDquiOOzJqAzoONPYxMDqaiRwp5JR62LeYpAis=
+Modified: 638334011106056861
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guard\Guard Details\GuardImage.yml
+ID: "7abee608-b53e-4b2b-bd6b-9ba795231180"
+Parent: "3c4dc456-caf4-4de9-a733-fa99eee38e7c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guard/Guard Details/GuardImage
+Signature: /NkxH0ecil/F4EHUGQ66JAFxLwIX9A5g5wObvxPl4w0=
+Modified: 638334011106004597
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guard\Guard Details\GuardName.yml
+ID: "89c97fc4-a31f-4963-8154-84472f40425f"
+Parent: "3c4dc456-caf4-4de9-a733-fa99eee38e7c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guard/Guard Details/GuardName
+Signature: ohCqo8f6kE5kd7vUV2neIadY8WJrrg+9XWlaVcjayRw=
+Modified: 638334011106036747
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guards\Guards Details\GuardsCTA.yml
+ID: "a4d660dc-4da6-4360-9f3e-2c0cae5250e6"
+Parent: "3f4fae91-d9d4-421c-a16d-20ef2357142d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guards/Guards Details/GuardsCTA
+Signature: FpD+AUE4lxe3idfRL/vHo5DY7CQ+qTIm6cQGoV72ANI=
+Modified: 638334011106216037
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guards\Guards Details\GuardsCTAText.yml
+ID: "c45b7a2d-020d-4b46-ae27-57f049261339"
+Parent: "3f4fae91-d9d4-421c-a16d-20ef2357142d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guards/Guards Details/GuardsCTAText
+Signature: cIyaJYQYvBTsNFV4ZUBac3xXoavxhcjmXWVx5aCk6mM=
+Modified: 638334011106246044
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guards\Guards Details\GuardsDescription.yml
+ID: "50a7c05a-111b-473b-bac6-7da2536eedbc"
+Parent: "3f4fae91-d9d4-421c-a16d-20ef2357142d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guards/Guards Details/GuardsDescription
+Signature: kAd3m3D5V9a86ablRtYK1nj7gFIwLO+C69da0mL2sOo=
+Modified: 638334011106132088
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo\Promo\PromoIcon.yml
+ID: "f94b9858-c439-4291-863b-757b536c8b65"
+Parent: "7452a89a-ef55-46aa-a566-1327a1391778"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo/Promo/PromoIcon
+Signature: thqGQeAdmHG/vb5rh3C1R79B0zv8en6YKAciO8NJiTk=
+Modified: 638334011106349311
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo\Promo\PromoIcon2.yml
+ID: "739c6cc2-0031-463d-9599-13478fd50ee3"
+Parent: "7452a89a-ef55-46aa-a566-1327a1391778"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo/Promo/PromoIcon2
+Signature: WnB14NG6w4YtijTLDC0PPgTtX1z1Qsmr48fW1zpEiL8=
+Modified: 638334011106464671
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo\Promo\PromoLink.yml
+ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+Parent: "7452a89a-ef55-46aa-a566-1327a1391778"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo/Promo/PromoLink
+Signature: +wzClfupHxboKq7dYjCvIVBushyywcWAC4L0Kzc4YT4=
+Modified: 638334011106379526
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo\Promo\PromoText.yml
+ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+Parent: "7452a89a-ef55-46aa-a566-1327a1391778"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo/Promo/PromoText
+Signature: G3OafIHmnHwOvp34lVkgTHfu2JZjU17irS/dif+XWTw=
+Modified: 638334011106306641
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo\Promo\PromoText2.yml
+ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+Parent: "7452a89a-ef55-46aa-a566-1327a1391778"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo/Promo/PromoText2
+Signature: blKPycKwvAzUwF1qAybZ9HlQMT8P1dwaH44U5kYyxPo=
+Modified: 638334011106414888
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo\Promo\PromoText3.yml
+ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
+Parent: "7452a89a-ef55-46aa-a566-1327a1391778"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo/Promo/PromoText3
+Signature: f8W4v9RV2fN6eFOU/UDLvyvRNPitG3c8iy4BLrtPBzs=
+Modified: 638334011106444679
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters\Page Content\__Standard Values.yml
+ID: "c3770a49-1bf0-4707-9e52-4eebd547b308"
+Parent: "ef87e73b-c7ff-49a2-ac59-9b0be83755c3"
+Template: "ef87e73b-c7ff-49a2-ac59-9b0be83755c3"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters/Page Content/__Standard Values
+Signature: xbrA63FCmViXfcrwUd0W67soG/iUGTRNchqSiaghpgw=
+Modified: 638334011107137182
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters\Promo\__Standard Values.yml
+ID: "7db70db1-e96a-4aa5-bbfe-7ef0bb725312"
+Parent: "881869ca-7f58-45ea-8b34-ad1bfd3551a8"
+Template: "881869ca-7f58-45ea-8b34-ad1bfd3551a8"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters/Promo/__Standard Values
+Signature: 2VSerZztUK8thJNNWaAk4DphBnEDm8rpkiPZhpddO7s=
+Modified: 638334011107169135
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters\Rich Text\__Standard Values.yml
+ID: "9f1a4278-031f-4f5c-8af5-d1f47f78da09"
+Parent: "0f3b7336-6112-418c-8bba-b0526f3887ce"
+Template: "0f3b7336-6112-418c-8bba-b0526f3887ce"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters/Rich Text/__Standard Values
+Signature: GowcKkNwc/rPFYe+QySFs1CWJAY3S6gFc9KoZeDIv0E=
+Modified: 638334011107206399
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters\Title\__Standard Values.yml
+ID: "bc041095-6b44-4280-85ba-1e978cef2ed0"
+Parent: "a82e8931-0575-4175-917d-e904ef7e6dbe"
+Template: "a82e8931-0575-4175-917d-e904ef7e6dbe"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters/Title/__Standard Values
+Signature: XDtLwNiBXmFWFZR7w3GdZRo699RKUxk4yp3q08w1ubw=
+Modified: 638334011107256033
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Service\Service Details\ServiceCTA.yml
+ID: "76472946-e2a1-42ad-8802-a242465ca91e"
+Parent: "fc1568e9-b20b-4180-bb74-66a306a644b4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Service/Service Details/ServiceCTA
+Signature: OL2iPRyuqAhTmra7ZnEBVvgWNMw1UwvXP/K2gqruFow=
+Modified: 638334011106572593
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Service\Service Details\ServiceCTAText.yml
+ID: "0309b551-d5c8-425e-926d-f0fcb53a5063"
+Parent: "fc1568e9-b20b-4180-bb74-66a306a644b4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Service/Service Details/ServiceCTAText
+Signature: DX0fsqncWBfluLmtYogbg6Lwe3iM53BtPSZ/n0aFpo8=
+Modified: 638334011106582602
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Service\Service Details\ServiceDescription.yml
+ID: "587ea32e-87c6-4e21-8a3e-bc98177cdf82"
+Parent: "fc1568e9-b20b-4180-bb74-66a306a644b4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Service/Service Details/ServiceDescription
+Signature: eYEJbzr9YbwHwiquhP0qWJDLydHbTrAKasbHHwX2oLw=
+Modified: 638334011106552667
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Service\Service Details\ServiceLogo.yml
+ID: "27ee4218-5851-4b31-8094-99c845d40fa4"
+Parent: "fc1568e9-b20b-4180-bb74-66a306a644b4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Service/Service Details/ServiceLogo
+Signature: ECBEbiJMyRWlyUtXOjujBo0K4eAFWx2G4aBzMBLgFXM=
+Modified: 638334011106500341
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Service\Service Details\ServiceTitle.yml
+ID: "ee23cfcb-02a6-4f10-92b7-87c5c01d570f"
+Parent: "fc1568e9-b20b-4180-bb74-66a306a644b4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Service/Service Details/ServiceTitle
+Signature: 8OwmBU+/DPhMu2eaZE1HFZwg5RQCbhfSnTRV9So8bRs=
+Modified: 638334011106522521
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Services\Services Details\ServicesHeading.yml
+ID: "49c8df06-3d0b-4bda-9c32-af659fb445db"
+Parent: "ac94e296-cc0b-4fa4-8eba-fd4662b4da98"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Services/Services Details/ServicesHeading
+Signature: amXTrAYQfmwXqF1RVN3xWpLrBUea9ZA59nwRPp9xPQA=
+Modified: 638334011106624622
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content.yml
+ID: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Parent: "3a7e1003-9223-4cfd-b8f5-1b1d62a0de37"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content
+Signature: 5664iOnb6+0Lsws9iX+d2WSbALBGV0mRuTQ7w2fGnNY=
+Modified: 638334011104076989
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs.yml
+ID: "9f0464ac-7cf7-4ebe-9b4f-4f3df3efd4f8"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs
+Signature: dI3gDTAq5WrfqYYlTtahvaIuzXVoXZyOYclfsiKli9c=
+Modified: 638334011104263137
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Services.yml
+ID: "9c5c634f-e77c-459c-8c58-5bc319bd8f36"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Services
+Signature: 3NqztqZxrarFePryW/Oi3ohfm07ofPKzNiijLNW48O4=
+Modified: 638334011104462617
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Text Folder.yml
+ID: "b762d567-87f5-493c-bb48-0c455d834457"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Text Folder
+Signature: lA8ybUil9225lqg5lpgmRIJEYoUZO5b+nMgNjE6VDWE=
+Modified: 638334011104497499
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Text.yml
+ID: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Parent: "29afd098-a8b7-40ca-bd0e-28a1fd6f40b1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Text
+Signature: qBHYMduqvdzPbo/ndGP66OQ5yrphW8pKUU0BdvqC0es=
+Modified: 638334011104477436
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\About\About Details.yml
+ID: "19b37dd0-a0be-4e95-bdaf-67e83e397821"
+Parent: "5946d908-d2cc-49b5-abc3-e12ca78318a2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/About/About Details
+Signature: rpynXvoCicAyBUZ7r9Xf4u7bY6XNNJssf+1MbFm2G2M=
+Modified: 638334011104532683
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\About\__Standard Values.yml
+ID: "3afc56a9-ee19-441e-93fe-7a9c0dc0b621"
+Parent: "5946d908-d2cc-49b5-abc3-e12ca78318a2"
+Template: "5946d908-d2cc-49b5-abc3-e12ca78318a2"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/About/__Standard Values
+Signature: kYM/5bGeb+jHMnMMBx6lTocu99CIjuOR9cEYvOpnUsw=
+Modified: 638334011106710118
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Banner\Banner Details.yml
+ID: "dc39dd14-06fb-492e-bd12-7c62c4a79ab5"
+Parent: "8cacd8d3-4eab-4a99-9081-4e4b6bc14b9d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Banner/Banner Details
+Signature: kxAPM/vNXwpTDLz8K7y3F7nqBj6E+QLkbYRhZwNwBTo=
+Modified: 638334011104567825
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Banner\__Standard Values.yml
+ID: "26702b40-9b94-402f-aff7-5939ad889354"
+Parent: "8cacd8d3-4eab-4a99-9081-4e4b6bc14b9d"
+Template: "8cacd8d3-4eab-4a99-9081-4e4b6bc14b9d"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Banner/__Standard Values
+Signature: uO8YxdNF3API47xj4LhcZuhJ/GTwOduQC/JV2GxAEfk=
+Modified: 638334011106740015
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel\Carousel Details.yml
+ID: "a0223ad2-c114-4997-ae45-4791e175562f"
+Parent: "fedbfbe3-1857-40d4-baa4-568c353db871"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel/Carousel Details
+Signature: 6EOauMStMbiCJmTBbai7ypgJDPk+CtrAS1Sg5nJBzFc=
+Modified: 638334011104614665
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\BannerCarousel\__Standard Values.yml
+ID: "8c98b440-8005-4934-a4f2-d9271f5357fd"
+Parent: "fedbfbe3-1857-40d4-baa4-568c353db871"
+Template: "fedbfbe3-1857-40d4-baa4-568c353db871"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/BannerCarousel/__Standard Values
+Signature: au8/0t1+/lRPh3ZE/NiSKpWRdABIh5nxVIlGseeSNgk=
+Modified: 638334011106770624
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Client\ClientDetails.yml
+ID: "26cb3b32-f866-4cd1-9ad2-629871379de6"
+Parent: "ffe348cd-41d8-4810-a5a2-fdbd3169b9e4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Client/ClientDetails
+Signature: OyABykEdMgnsA5xVUiZuyVr/N1Z/10eBjpZjpR3nOtY=
+Modified: 638334011104644673
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Client\__Standard Values.yml
+ID: "cc491202-fb85-4aa7-8335-900ee71f76ef"
+Parent: "ffe348cd-41d8-4810-a5a2-fdbd3169b9e4"
+Template: "ffe348cd-41d8-4810-a5a2-fdbd3169b9e4"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Client/__Standard Values
+Signature: MMFPL1P89Pt1uxkmt7BG8oDyOmPnn6UpgM+VeerLpDQ=
+Modified: 638334011106802445
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Clients\Clients.yml
+ID: "1d9d0b14-f784-43a2-b4ec-b6437e49f79e"
+Parent: "aee3343b-e6fe-49dd-a277-ecd0f8af52d7"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Clients/Clients
+Signature: Io59D6KdBKy2zplqAUTCOu7MVZ0nPYKrchsXfAWgakU=
+Modified: 638334011104679760
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Clients\__Standard Values.yml
+ID: "3a5ca6f9-5e98-4e68-9842-9b703901f325"
+Parent: "aee3343b-e6fe-49dd-a277-ecd0f8af52d7"
+Template: "aee3343b-e6fe-49dd-a277-ecd0f8af52d7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Clients/__Standard Values
+Signature: WcgXleo3oiXsjygYk7f9Popqd45bLizYP62EAKW1ww0=
+Modified: 638334011106830763
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactsData\Contacts Details.yml
+ID: "ecb04ae3-864d-4c63-9a4c-ccbfb240bc01"
+Parent: "66fc99a4-477a-4a1f-be22-32df32ef9f6b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactsData/Contacts Details
+Signature: L0qCIEzBYBZ8S3FnU520RSPLxVvHU4JujhsIdpW93kw=
+Modified: 638334011104709854
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactsData\__Standard Values.yml
+ID: "3391f16a-00fb-4efe-a1c4-6bdb9004efc9"
+Parent: "66fc99a4-477a-4a1f-be22-32df32ef9f6b"
+Template: "66fc99a4-477a-4a1f-be22-32df32ef9f6b"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactsData/__Standard Values
+Signature: 3CHAOgtUJ5QFPe0mbyoDbQKfyXtwL5CyLjkDQupW69I=
+Modified: 638334011106870852
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\ContactUsDetails.yml
+ID: "79cf57a1-9549-4b12-9855-219606b0f787"
+Parent: "9f0464ac-7cf7-4ebe-9b4f-4f3df3efd4f8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/ContactUsDetails
+Signature: 9ZlA7tDYBoPpLzDthJm0tSr9Qs4eE/nXZo+8tO6CqCw=
+Modified: 638334011104749821
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\ContactUs\__Standard Values.yml
+ID: "4e6c6a38-19cc-4c85-8771-c529fce3f565"
+Parent: "9f0464ac-7cf7-4ebe-9b4f-4f3df3efd4f8"
+Template: "9f0464ac-7cf7-4ebe-9b4f-4f3df3efd4f8"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/ContactUs/__Standard Values
+Signature: 9wH3VmclJWaz80P2peaiWJkoag0J+q/vz9n6dvDG3eE=
+Modified: 638334011106916196
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guard\Guard Details.yml
+ID: "3c4dc456-caf4-4de9-a733-fa99eee38e7c"
+Parent: "47277187-4230-41b2-be70-e703e0c4b8b1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guard/Guard Details
+Signature: sECR03zkNgOxt/rtwP9+Hxv2Q3qsYicg9uLywNnq2l0=
+Modified: 638334011104785070
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guard\__Standard Values.yml
+ID: "0b71968a-26cb-4759-85cf-6770ec90bdf8"
+Parent: "47277187-4230-41b2-be70-e703e0c4b8b1"
+Template: "47277187-4230-41b2-be70-e703e0c4b8b1"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guard/__Standard Values
+Signature: HLchlrZLMOF8tQNzVesWi0yeqbBg0AN/TtwJ3YLpXxQ=
+Modified: 638334011106949736
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guards\Guards Details.yml
+ID: "3f4fae91-d9d4-421c-a16d-20ef2357142d"
+Parent: "b804324b-1a9c-4db4-a43f-473432a5f277"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guards/Guards Details
+Signature: uaYB9gAy2EQh9kPksF1Z1fmUYi8/3pE1He5cWlJTNgE=
+Modified: 638334011104815005
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Guards\__Standard Values.yml
+ID: "e8522578-c090-4021-8154-048d0bc69bdf"
+Parent: "b804324b-1a9c-4db4-a43f-473432a5f277"
+Template: "b804324b-1a9c-4db4-a43f-473432a5f277"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Guards/__Standard Values
+Signature: ur8Gjd4PkkU1SSvebLLab6XLBKBOSivrdw3snoJIQyA=
+Modified: 638334011106979784
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo\Promo.yml
+ID: "7452a89a-ef55-46aa-a566-1327a1391778"
+Parent: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo/Promo
+Signature: jWa1AL+bClqdCLUjIGbwwaUijiXx94RUocdOVorEL5w=
+Modified: 638334011104854970
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Promo Folder\__Standard Values.yml
+ID: "444f9f3a-1ab4-438c-81fb-0624e58f6bc1"
+Parent: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Promo Folder/__Standard Values
+Signature: 2zsiC5UwpP7AduCHYFrCup77dTDS/FiWLBGxx2rSkOk=
+Modified: 638334011107005599
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters\Page Content.yml
+ID: "ef87e73b-c7ff-49a2-ac59-9b0be83755c3"
+Parent: "1d8f4d81-2f6a-48d8-9b65-ee8110a97a72"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters/Page Content
+Signature: fDskWiaw/3LZAZp1UQmmCmkO5J4uvi1/X2FXZRdFWt0=
+Modified: 638334011104890356
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters\Promo.yml
+ID: "881869ca-7f58-45ea-8b34-ad1bfd3551a8"
+Parent: "1d8f4d81-2f6a-48d8-9b65-ee8110a97a72"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters/Promo
+Signature: vzNDe3Xqy7vF0S2ga49gIlYT/AdlvkvcH96nrfS7q+Y=
+Modified: 638334011104913408
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Rendering Parameters\Rich Text.yml
+ID: "0f3b7336-6112-418c-8bba-b0526f3887ce"
+Parent: "1d8f4d81-2f6a-48d8-9b65-ee8110a97a72"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Rendering Parameters/Rich Text
+Signature: OuOjZT0L3x7InC1rlsgcLzrdHXlZk2QPyDRUyfkcCqg=
+Modified: 638334011104943348
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Services\Services Details\ServicesList.yml
+ID: "ae41e359-9e2d-4791-99bb-da07ee44fd9f"
+Parent: "ac94e296-cc0b-4fa4-8eba-fd4662b4da98"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Services/Services Details/ServicesList
+Signature: NMg4AVeQ4N9FRa5dbf+26vR5MrXV4cRA8WELGRZzYJE=
+Modified: 638334011106644766
+---
+File: |
+  C:\Users\vthakur\Desktop\JSS\guarder\serialization\serialization\feature-templates\Page Content\Text\Text\Texts.yml
+ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+Parent: "3a632f18-9fe1-4edf-a4a1-f2b33df4bdd4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Text/Text/Texts
+Signature: w7LkjrThjumSdOJgisBOOU35LNYeVct9zxNnJ+wOw34=
+Modified: 638334012672193989

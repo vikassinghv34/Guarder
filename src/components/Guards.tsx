@@ -18,7 +18,7 @@ const Guards = ({ fields }: GuardsProps) => {
         <div className="flex flex-col sm:flex-row flex-wrap md:flex-nowrap justify-center items-center">
           {fields.GuardsList.map((guard: Guard, index: number) => {
             const guardImage =
-              'https://calm-mallard-fairly.ngrok-free.app/' +
+              'https://frank-corgi-nice.ngrok-free.app/' +
               guard.fields.GuardImage.value?.src?.replace('/sitecore/shell/', '');
 
             return (

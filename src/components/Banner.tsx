@@ -1,6 +1,6 @@
 import { Link, RichText, Text, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
 import React from 'react';
-
+// import { BannerCarousel } from '../../models/Feature.feature-templates.Model';
 import { BannerCarousel, BannerProps } from 'src/Types/types';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -13,7 +13,7 @@ import Image from 'next/image';
 const Banner = ({ fields }: BannerProps) => {
   //   console.log(fields);
   const bgImage =
-    'https://calm-mallard-fairly.ngrok-free.app' + fields.BannerBackgroundImage.value.src;
+    'https://frank-corgi-nice.ngrok-free.app' + fields.BannerBackgroundImage.value.src;
   return (
     <div
       className="relative text-center h-screen w-full overflow-hidden"
