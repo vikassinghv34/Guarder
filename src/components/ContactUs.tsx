@@ -15,7 +15,7 @@ const ContactUs = ({ fields }: ContactUsProps) => {
   // const [formData, setFormData] = useState(default_form);
 
   const router = useRouter();
-  const API_ENDPOINT = 'https://frank-corgi-nice.ngrok-free.app/sitecore/api/graph/items/master';
+  const API_ENDPOINT = 'https://guarderssc.dev.local/sitecore/api/graph/items/master';
 
   const handleSubmit = async (event: ChangeEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -94,7 +94,7 @@ const ContactUs = ({ fields }: ContactUsProps) => {
   };
 
   const BgImage =
-    'https://frank-corgi-nice.ngrok-free.app/' +
+    'https://guarderssc.dev.local/' +
     fields.ContactUsBackgroundImage.value?.src?.replace('/sitecore/shell/', '');
   return (
     // <div className="relative bg-cover bg-no-repeat" style={{ backgroundImage: `url(${BgImage})` }}>

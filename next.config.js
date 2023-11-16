@@ -9,7 +9,7 @@ const publicUrl = getPublicUrl();
  */
 const nextConfig = {
   images: {
-    domains: ['guarderssc.dev.local', 'frank-corgi-nice.ngrok-free.app', 'guarder.vercel.app'],
+    domains: ['guarderssc.dev.local', 'guarderssc.dev.local', 'guarder.vercel.app'],
     // formats: ['image/svg+xml', 'image/webp'],
     dangerouslyAllowSVG: true,
   },

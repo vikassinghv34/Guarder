@@ -10,7 +10,6 @@
 /.next*/
 /out/
 
-/models/*.ts
 
 # misc
 .DS_Store
