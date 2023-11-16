@@ -1,3 +1,5 @@
 *
 !.gitignore
 !GraphQLIntrospectionResult.json
+
+./models
