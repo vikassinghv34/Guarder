@@ -28,3 +28,7 @@ scjssconfig.json
 
 # vercel
 .vercel
+
+#serialization 
+/serialization
+/models
