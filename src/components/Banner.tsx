@@ -17,7 +17,7 @@ const Banner = ({ fields }: BannerProps) => {
   return (
     <div
       className="relative text-center h-screen w-full overflow-hidden"
-      // style={{ backgroundImage: `url(${bgImage})` }}
+      style={{ backgroundImage: `url(${bgImage})` }}
     >
       <Image
         className="bg-cover bg-no-repeat min-w-fit min-h-screen"
