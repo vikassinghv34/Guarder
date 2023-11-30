@@ -93,7 +93,7 @@ export type BannerCarousel = {
 
 export type AboutProps = ComponentProps & {
   fields: {
-    fields: {
+    data: {
       fields: {
         fields: {
           data: Field<string>;
@@ -133,8 +133,8 @@ export type Service = {
 };
 
 export type ClientsProps = ComponentProps & {
-  results: {
-    results: {
+  fields: {
+    data: {
       fields: {
         fields: Field<string>[];
         ClientsList: {

@@ -1,6 +1,6 @@
 import {
-  GetStaticComponentProps,
-  GraphQLRequestClient,
+  // GetStaticComponentProps,
+  // GraphQLRequestClient,
   Text,
   withDatasourceCheck,
 } from '@sitecore-jss/sitecore-jss-nextjs';
@@ -9,11 +9,11 @@ import { Client, ClientsProps } from 'src/Types/types';
 
 import Slider from 'react-slick';
 import Image from 'next/image';
-import config from 'temp/config';
+// import config from 'temp/config';
 
-import { ClientsDocument } from './graphql/clients.graphql';
+// import { ClientsDocument } from './graphql/clients.graphql';
 
-const Clients = ({ results }: ClientsProps) => {
+const Clients = ({ fields }: ClientsProps) => {
   // console.log(results);
   const settings = {
     // dots: true,
@@ -29,11 +29,11 @@ const Clients = ({ results }: ClientsProps) => {
     <div className="bg-white py-24 md:px-4 md:mx-10">
       <div className="container mx-auto text-center">
         <div className="w-full text-black font-bold text-[32px] uppercase">
-          <Text field={results.results.fields.fields[0]}></Text>
+          <Text field={fields?.data?.fields?.fields[0]}></Text>
           <span className="block w-10 h-1.5 bg-yellow-400 mx-auto my-1 rounded-md"></span>
         </div>
         <Slider {...settings}>
-          {results.results.fields.ClientsList.data.map((client: Client, index: number) => {
+          {fields?.data?.fields?.ClientsList.data.map((client: Client, index: number) => {
             // console.log(client);
             const clientImage =
               'https://guarderssc.dev.local/' + client.fields.ClientImage.value?.src;
@@ -67,21 +67,21 @@ const Clients = ({ results }: ClientsProps) => {
 
 export default withDatasourceCheck()<ClientsProps>(Clients);
 
-export const getStaticProps: GetStaticComponentProps = async (rendering, layoutData) => {
-  try {
-    const graphQLClient = new GraphQLRequestClient(config.graphQLEndpoint, {
-      apiKey: config.sitecoreApiKey,
-    });
+// export const getStaticProps: GetStaticComponentProps = async (rendering, layoutData) => {
+//   try {
+//     const graphQLClient = new GraphQLRequestClient(config.graphQLEndpoint, {
+//       apiKey: config.sitecoreApiKey,
+//     });
 
-    const results = await graphQLClient.request(ClientsDocument as never, {
-      datasource: rendering?.dataSource,
-      language: layoutData?.sitecore?.context?.language,
-    });
-    return {
-      results: { results },
-    };
-  } catch (error) {
-    console.error('GraphQL Request Error: ', error);
-    return null;
-  }
-};
+//     const results = await graphQLClient.request(ClientsDocument as never, {
+//       datasource: rendering?.dataSource,
+//       language: layoutData?.sitecore?.context?.language,
+//     });
+//     return {
+//       results: { results },
+//     };
+//   } catch (error) {
+//     console.error('GraphQL Request Error: ', error);
+//     return null;
+//   }
+// };

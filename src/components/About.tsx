@@ -1,6 +1,6 @@
 import {
-  GetStaticComponentProps,
-  GraphQLRequestClient,
+  // GetStaticComponentProps,
+  // GraphQLRequestClient,
   Link,
   Text,
   withDatasourceCheck,
@@ -10,15 +10,14 @@ import Image from 'next/image';
 import React from 'react';
 import { AboutProps } from 'src/Types/types';
 
-import { AboutDocument } from './graphql/about.graphql';
-import config from 'temp/config';
+// import { AboutDocument } from './graphql/about.graphql';
+// import config from 'temp/config';
 
 const About = ({ fields }: AboutProps) => {
   // console.log(fields);
   // console.log(fields?.fields?.fields?.fields[1]?.data);
 
-  const AboutImg =
-    'https://guarderssc.dev.local/' + fields.fields.fields.AboutImage.data.value?.src;
+  const AboutImg = 'https://guarderssc.dev.local/' + fields.data.fields.AboutImage.data.value?.src;
 
   return (
     <div className="bg-white z-0">
@@ -29,24 +28,24 @@ const About = ({ fields }: AboutProps) => {
               className="w-screen"
               // field={fields.AboutImage}
               src={AboutImg}
-              alt={fields.fields.fields.AboutImage.data?.value?.alt as string}
+              alt={fields.data.fields.AboutImage.data?.value?.alt as string}
               width={500}
               height={400}
             ></Image>
           </div>
           <div className="py-11 w-full px-6 shadow-slate-700 shadow-sm md:-ml-14 xl:my-10 z-10 bg-white">
             <h2 className="font-bold text-[32px] uppercase">
-              <Text field={fields?.fields?.fields?.fields[1]?.data} />
+              <Text field={fields?.data?.fields?.fields[1]?.data} />
               <span className="block w-10 h-1.5 bg-yellow-400 rounded-md mt-1 "></span>
             </h2>
             <p className="py-4">
-              <Text field={fields.fields.fields.fields[3].data}></Text>
+              <Text field={fields.data.fields.fields[3].data}></Text>
             </p>
             <Link
               className="bg-yellow-400 inline-block text-white py-2.5 px-9 uppercase transition duration-500 hover:bg-white hover:text-yellow-400   border-2 border-yellow-400 "
-              field={fields.fields.fields.AboutReadMoreCTA.data}
+              field={fields.data.fields.AboutReadMoreCTA.data}
             >
-              <Text field={fields.fields.fields.fields[4].data}></Text>
+              <Text field={fields.data.fields.fields[4].data}></Text>
             </Link>
           </div>
         </div>
@@ -57,21 +56,21 @@ const About = ({ fields }: AboutProps) => {
 
 export default withDatasourceCheck()<AboutProps>(About);
 
-export const getStaticProps: GetStaticComponentProps = async (rendering, layoutData) => {
-  try {
-    const graphQLClient = new GraphQLRequestClient(config.graphQLEndpoint, {
-      apiKey: config.sitecoreApiKey,
-    });
+// export const getStaticProps: GetStaticComponentProps = async (rendering, layoutData) => {
+//   try {
+//     const graphQLClient = new GraphQLRequestClient(config.graphQLEndpoint, {
+//       apiKey: config.sitecoreApiKey,
+//     });
 
-    const fields = await graphQLClient.request(AboutDocument as never, {
-      datasource: rendering?.dataSource,
-      language: layoutData?.sitecore?.context?.language,
-    });
-    return {
-      fields: { fields },
-    };
-  } catch (error) {
-    console.error('GraphQL Request error: ', error);
-    return null;
-  }
-};
+//     const fields = await graphQLClient.request(AboutDocument as never, {
+//       datasource: rendering?.dataSource,
+//       language: layoutData?.sitecore?.context?.language,
+//     });
+//     return {
+//       fields: { fields },
+//     };
+//   } catch (error) {
+//     console.error('GraphQL Request error: ', error);
+//     return null;
+//   }
+// };
