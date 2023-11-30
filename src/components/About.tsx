@@ -17,7 +17,8 @@ const About = ({ fields }: AboutProps) => {
   // console.log(fields);
   // console.log(fields?.fields?.fields?.fields[1]?.data);
 
-  const AboutImg = 'https://guarderssc.dev.local/' + fields.data.fields.AboutImage.data.value?.src;
+  const AboutImg =
+    'https://frank-corgi-nice.ngrok-free.app' + fields.data.fields.AboutImage.data.value?.src;
 
   return (
     <div className="bg-white z-0">
