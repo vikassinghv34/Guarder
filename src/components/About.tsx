@@ -17,7 +17,8 @@ const About = ({ fields }: AboutProps) => {
   // console.log(fields);
   // console.log(fields?.fields?.fields?.fields[1]?.data);
 
-  const AboutImg = 'https://guarderssc.dev.local' + fields.data.fields.AboutImage.data.value?.src;
+  // const AboutImg =
+  //   'https://guarderssc.dev.local' + fields?.data?.fields?.AboutImage?.data?.value?.src;
 
   return (
     <div className="bg-white z-0">
@@ -27,8 +28,8 @@ const About = ({ fields }: AboutProps) => {
             <Image
               className="w-screen"
               // field={fields.AboutImage}
-              src={AboutImg}
-              alt={fields.data.fields.AboutImage.data?.value?.alt as string}
+              src={fields?.data?.fields?.AboutImage?.data?.value?.src as string}
+              alt={fields?.data?.fields?.AboutImage?.data?.value?.alt as string}
               width={500}
               height={400}
             ></Image>
@@ -39,13 +40,13 @@ const About = ({ fields }: AboutProps) => {
               <span className="block w-10 h-1.5 bg-yellow-400 rounded-md mt-1 "></span>
             </h2>
             <p className="py-4">
-              <Text field={fields.data.fields.fields[3].data}></Text>
+              <Text field={fields?.data?.fields?.fields[3].data}></Text>
             </p>
             <Link
               className="bg-yellow-400 inline-block text-white py-2.5 px-9 uppercase transition duration-500 hover:bg-white hover:text-yellow-400   border-2 border-yellow-400 "
-              field={fields.data.fields.AboutReadMoreCTA.data}
+              field={fields?.data?.fields?.AboutReadMoreCTA.data}
             >
-              <Text field={fields.data.fields.fields[4].data}></Text>
+              <Text field={fields?.data?.fields?.fields[4].data}></Text>
             </Link>
           </div>
         </div>
