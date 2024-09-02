@@ -12,8 +12,7 @@ import Image from 'next/image';
 
 const Banner = ({ fields }: BannerProps) => {
   //   console.log(fields);
-  const bgImage =
-    'https://frank-corgi-nice.ngrok-free.app' + fields.BannerBackgroundImage.value.src;
+  const bgImage = 'https://guarderssc.dev.local' + fields.BannerBackgroundImage.value.src;
   return (
     <div
       className="relative text-center h-screen w-full overflow-hidden"

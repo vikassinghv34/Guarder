@@ -17,7 +17,7 @@ const Services = ({ fields }: ServicesProps) => {
           {fields.data.fields.ServicesList?.data.map((service: Service, index: number) => {
             // console.log(service);
             const serviceLogo =
-              'https://frank-corgi-nice.ngrok-free.app' +
+              'https://guarderssc.dev.local' +
               service.fields.ServiceLogo.value?.src?.replace('/sitecore/shell/', '');
             return (
               <div key={index} className="px-4">
